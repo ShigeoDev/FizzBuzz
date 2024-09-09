@@ -15,6 +15,5 @@ public class Reduce {
             count++;
         }
         System.out.println(count);
-
     } 
 }
